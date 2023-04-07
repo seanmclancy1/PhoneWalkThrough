@@ -7,7 +7,14 @@ As an MSP we look for reliable, accessible, and flexible solutions for our clien
 <h2>Program walk-through:</h2>
 
 <p align="center">
-•	Go to https://skyswitch.com to setup your account if you don’t already have one. <br />
+•	Today we will be setting up our Fanvil phone system.
+<br/>
+<img src="https://i.imgur.com/1xzLMAO.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/
+<br/>
+<br/>
+<br/>
+<br/>
+•	Go to https://skyswitch.com to setup your account if you don’t already have one. <br/>
 <img src="https://i.imgur.com/4vf4bLW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
 <br/>
 <br/>
