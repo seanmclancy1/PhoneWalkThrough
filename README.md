@@ -72,7 +72,7 @@ As an MSP we look for reliable, accessible, and flexible solutions for our clien
 <br/>
 <br/>
 •	You will now have your domain show under your domain list, click it. <br/>
-•	Click on Users, it you should now be here 
+•	Click on Users, you should now be here 
 <br/>
 <img src="https://i.imgur.com/zNawfAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
